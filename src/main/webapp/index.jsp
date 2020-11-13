@@ -12,7 +12,7 @@
             <p>Ingrese a continuación el número que desea elevar al cuadrado y haga clic en Calcular:</p>
             <input name="numero" type="number" /><input value="Calcular" type="submit" />
             <p>All Rights Reserved</p>
-            <p>Taller de DevOps AWS</p>
+            <p>Taller de DevOps AWS222</p>
         </form>
     </body>
 </html>
